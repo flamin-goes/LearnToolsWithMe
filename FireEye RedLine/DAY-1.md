@@ -1,6 +1,6 @@
 DAY-1
 
->> What is FireEye RedLine? >>
+## What is FireEye RedLine? 
 FireEye Redline is a free endpoint security tool developed by FireEye, a leading cybersecurity company known for its advanced threat intelligence and incident response services. 
 Redline is designed to assist cybersecurity professionals, incident responders, and forensic analysts in collecting and analyzing data from Windows systems to identify malicious 
 activities and indicators of compromise (IoCs).
@@ -8,7 +8,7 @@ activities and indicators of compromise (IoCs).
 FireEye Redline was initially released in 2012 as a free tool to aid in forensic analysis and incident response activities. 
 Over the years, it has evolved with new features and improvements based on feedback from the cybersecurity community and advancements in threat landscape.
 
->> Key Features of FireEye Redline >>
+#### Key Features of FireEye Redline 
 1. Data Collection: 
         Redline can gather a wide range of information from a Windows system, including running processes, loaded drivers, network connections, and file system metadata.
 2. Memory Analysis: 
