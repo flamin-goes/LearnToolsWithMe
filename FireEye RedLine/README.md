@@ -8,5 +8,7 @@
 `https://tryhackme.com/r/room/btredlinejoxr3d`
 #### TryHackMe Room: REvil corp (To Practice)
 `https://tryhackme.com/r/room/revilcorp`
+###### *WALKTHROUGH OF THE ROOM*
+`https://infosecwriteups.com/revil-incident-response-with-redline-fe7853699216`
 #### Usage Guide by Infosec Institute
 `https://www.infosecinstitute.com/resources/malware-analysis/memory-analysis-using-redline/`
