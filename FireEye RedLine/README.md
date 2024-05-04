@@ -1,5 +1,12 @@
-# SOME RESOURCES TO ACE THIS TOOL:
+# HERE'S HOW TO PROCEEED ALONG THIS DIRECTORY:
+1. Introducing Redline
+2. Installation Guide
+3. Supported Operating Systems
+4. Understanding the Functionalities of Tool - I
+5. Understanding the Functionalities of Tool - II
+6. Creating IOC Reports
 
+# SOME RESOURCES TO ACE THIS TOOL:
 #### Redline User Guide: 
 `https://fireeye.market/assets/apps/211364/documents/877936_en.pdf`
 #### IOC Editor User Guide: 
